@@ -2,7 +2,7 @@ public class Kendaraan {
     String platNomor, tipe, merk;
 
     public Kendaraan(String plat, String tipe, String merk) {
-        this.platNomor = plat;
+        platNomor = plat;
         this.tipe = tipe;
         this.merk = merk;
     }
